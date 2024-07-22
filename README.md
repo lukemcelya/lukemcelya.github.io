@@ -1,2 +1,3 @@
-# lukemcelya.github.io
-All About Me :)
+## Luke McELya
+# Github Portfolio
+
