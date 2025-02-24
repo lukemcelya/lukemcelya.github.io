@@ -1,3 +1,3 @@
-# Luke McElya
+# John (Luke) McElya
 ## Github Portfolio
 
