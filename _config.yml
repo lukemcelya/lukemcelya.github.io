@@ -1,1 +1,13 @@
-theme: jekyll-theme-cayman
+title: "My Portfolio"
+description: "A minimal portfolio showcasing my projects and a bit about me."
+# If you're using the remote theme, it might look like this:
+remote_theme: pages-themes/cayman@v0.2.0
+
+# Custom navigation (Cayman uses pages by default, but you can customize the order)
+nav:
+  - name: "Home"
+    link: /
+  - name: "About"
+    link: /about/
+  - name: "Projects"
+    link: /projects/
