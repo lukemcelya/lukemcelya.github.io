@@ -1,0 +1,58 @@
+/* General Body Styles */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background: #f9f9f9;
+  color: #333;
+}
+
+/* Header and Navigation */
+.site-header {
+  background: #fff;
+  border-bottom: 1px solid #eaeaea;
+  padding: 1rem 0;
+}
+.site-title a {
+  text-decoration: none;
+  color: #333;
+  font-size: 1.8rem;
+}
+.site-nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  gap: 1rem;
+}
+.site-nav a {
+  text-decoration: none;
+  color: #333;
+}
+
+/* Section Styling */
+section {
+  padding: 3rem 1rem;
+  max-width: 800px;
+  margin: auto;
+}
+.hero {
+  text-align: center;
+  background: #f7f7f7;
+}
+.about, .projects {
+  margin-top: 2rem;
+}
+.projects .project {
+  margin-bottom: 1.5rem;
+}
+.projects .project h3 a {
+  color: #007acc;
+  text-decoration: none;
+}
+
+/* Optional: Smooth Scrolling */
+html {
+  scroll-behavior: smooth;
+}
