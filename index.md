@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My Portfolio
+title: Luke McElya GitHub
 permalink: /
 ---
 
