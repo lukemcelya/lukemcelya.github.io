@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Luke McElya GitHub
+title: John Luke McElya
 permalink: /
 ---
 
