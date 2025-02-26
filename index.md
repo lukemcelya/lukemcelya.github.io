@@ -31,7 +31,7 @@ permalink: /
   <h2>Projects</h2>
   <div class="project">
     <h3>
-      <a href="https://github.com/lukemcelya/ChatHive" target="_blank">Project 1</a>
+      <a href="https://github.com/lukemcelya/ChatHive" target="_blank">ChatHive</a>
     </h3>
     <p>
       ChatHive is a real-time messaging app made in C++ with the help of Boost.Asio. At the moment, it runs on the command line (via separate terminals), but GUI features and online functionality will be implemented soon!
@@ -39,7 +39,7 @@ permalink: /
   </div>
   <div class="project">
     <h3>
-      <a href="https://github.com/lukemcelya/CanfieldSolitaire" target="_blank">Project 2</a>
+      <a href="https://github.com/lukemcelya/CanfieldSolitaire" target="_blank">Canfield Solitaire</a>
     </h3>
     <p>
       Canfield Solitaire is a difficult, unwinnable version of Solitaire. This recreation is displayed in the command line, using arrays of strings to output playing cards line by line. This was one of my favorite programs to develop in school, and I’m very proud of it!
